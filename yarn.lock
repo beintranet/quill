@@ -4181,9 +4181,9 @@ header-case@^2.0.3:
     tslib "^1.10.0"
 
 highlight.js@^9.18.1:
-  version "9.18.1"
-  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.18.1.tgz#ed21aa001fe6252bb10a3d76d47573c6539fe13c"
-  integrity sha512-OrVKYz70LHsnCgmbXctv/bfuvntIKDz177h0Co37DQ5jamGZLVmoCVMtjMtNZY3X9DrCcKfklHPNeA0uPZhSJg==
+  version "9.18.2"
+  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.18.2.tgz#c48dd55f95986e4449228849d709504bfe7cb964"
+  integrity sha512-tglpEIoxZR+CTZw7ivuOZJ2wEowySSPAmBv+BQnXzezJ937wQwWnqJ8BmpQAdi3Lgf3ltlCkhT2bb6IWVZrO9Q==
 
 hmac-drbg@^1.0.0:
   version "1.0.1"
@@ -5981,9 +5981,10 @@ param-case@^3.0.3:
     dot-case "^3.0.3"
     tslib "^1.10.0"
 
-"parchment@https://github.com/beintranet/parchment.git#master":
-  version "1.1.4"
-  resolved "https://github.com/beintranet/parchment.git#b0f49884124705f9f7e32cc6e0aca82152cd5916"
+parchment@2.0.0-dev.2:
+  version "2.0.0-dev.2"
+  resolved "https://registry.yarnpkg.com/parchment/-/parchment-2.0.0-dev.2.tgz#9d6fe57b3721317bd1c481ea38ffa9b287d496b8"
+  integrity sha512-4fgRny4pPISoML08Zp7poi52Dff3E2G1ORTi2D/acJ/RiROdDAMDB6VcQNfBcmehrX5Wixp6dxh6JjLyE5yUNQ==
 
 parent-module@^1.0.0:
   version "1.0.1"
