@@ -35,8 +35,8 @@
     "eventemitter3": "^4.0.0",
     "lodash.clonedeep": "^4.5.0",
     "lodash.isequal": "^4.5.0",
-    "lodash.merge": "^4.5.0",
-    "parchment": "https://github.com/beintranet/parchment.git#master",
+    "lodash.merge": "^4.5.0", 
+    "parchment": "git://github.com/beintranet/parchment.git#master",
     "quill-delta": "4.2.2"
   },
   "devDependencies": {

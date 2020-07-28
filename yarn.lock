@@ -5981,10 +5981,9 @@ param-case@^3.0.3:
     dot-case "^3.0.3"
     tslib "^1.10.0"
 
-parchment@2.0.0-dev.2:
-  version "2.0.0-dev.2"
-  resolved "https://registry.yarnpkg.com/parchment/-/parchment-2.0.0-dev.2.tgz#9d6fe57b3721317bd1c481ea38ffa9b287d496b8"
-  integrity sha512-4fgRny4pPISoML08Zp7poi52Dff3E2G1ORTi2D/acJ/RiROdDAMDB6VcQNfBcmehrX5Wixp6dxh6JjLyE5yUNQ==
+"parchment@https://github.com/beintranet/parchment.git#master":
+  version "1.1.4"
+  resolved "https://github.com/beintranet/parchment.git#b0f49884124705f9f7e32cc6e0aca82152cd5916"
 
 parent-module@^1.0.0:
   version "1.0.1"
