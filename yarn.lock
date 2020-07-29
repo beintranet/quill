@@ -5055,7 +5055,7 @@ param-case@2.1.x:
 
 "parchment@git://github.com/beintranet/parchment.git#master":
   version "1.1.4"
-  resolved "git://github.com/beintranet/parchment.git#99b5835c42e90fb01e7cd6ff7d3db0c37c9997b0"
+  resolved "git://github.com/beintranet/parchment.git#2ccf5760254e8afca42ee62b045f267399d4c729"
 
 parse-asn1@^5.0.0, parse-asn1@^5.1.5:
   version "5.1.5"
